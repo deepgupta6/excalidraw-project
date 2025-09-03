@@ -9,6 +9,7 @@
   },
   "devdependencies": {
     "@repo/typescript-config": "workspace:*",
+    "@repo/db": "workspace:*",
     "express": "^4.17.1",
     "cors": "^2.8.5"
   },
